@@ -12,3 +12,4 @@
 
 - 채식한끼 반응형 웹 사이트입니다.
 
+![hanggi](https://user-images.githubusercontent.com/64449865/104843362-97228180-590d-11eb-96e4-aaf2271469b0.gif)
