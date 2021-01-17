@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.subpage {
+  width: 100%;
+  height: auto;
+  padding-top: 300px;
+  text-align: center;
+  background: #f9f6e7;
+}
+
+.subpage .fas {
+  color: #fdc2ba;
+  font-size: 6em;
+  margin-bottom: 40px;
+}
+
+.subpage h2 {
+  font-size: 2em;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.subpage p {
+  font-size: 1em;
+  line-height: 1.5;
+  color: #666;
+  padding-bottom: 200px;
+}
